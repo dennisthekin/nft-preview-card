@@ -11,7 +11,6 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -24,14 +23,14 @@ Users should be able to:
 
 ### Screenshot
 
-![mobile-view](images/mobile-view.png.jpg)
+![mobile-view](images/mobile-view.png)
 ![desktop-view](images/desktop-view.png)
 
 
 ### Links
 
 - [View solution on Frontend Mentor]()
-- [View live site]()
+- [View live site](https://nft-preview-card-dennisthekin.vercel.app/)
 
 ## My process
 
@@ -45,7 +44,3 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@dennisthekin](https://www.frontendmentor.io/profile/dennisthekin)
-
-## Acknowledgments
-
-To the amazing individuals at Frontend Mentor for their advice and guidance. Thank you so much!!!!
