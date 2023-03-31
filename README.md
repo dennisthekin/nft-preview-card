@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- [View solution on Frontend Mentor]()
+- [View solution on Frontend Mentor](https://www.frontendmentor.io/solutions/grid-positioning-to-center-eye-icon-and-cyan-background-on-hover-gak7ZmlmHs)
 - [View live site](https://nft-preview-card-dennisthekin.vercel.app/)
 
 ## My process
